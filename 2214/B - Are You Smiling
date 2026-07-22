@@ -1,18 +1,6 @@
-<h2><a href="https://codeforces.com/contest/2214/problem/B" target="_blank" rel="noopener noreferrer">2214B — Are You Smiling?</a></h2>
-
-| | |
-|---|---|
-| **Difficulty** | Unrated |
-| **Language** | Java 21 |
-| **Verdict** | ✅ Accepted |
-| **Problem Link** | [Codeforces 2214B](https://codeforces.com/contest/2214/problem/B) |
-
-## Topics
-`*special` `strings`
-
----
-
-## Problem Statement
-
-<div class="header"><div class="title">B. Are You Smiling?</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Show us a smile! 😁</p></div><div class="output-specification"><div class="section-title">Output</div><p>For a properly chosen $$$\mathrm{?}$$$, the following equation holds: $$$\mathrm{U} + \mathrm{?} = \mathrm{HAPPY}$$$.</p><p>Output $$$\mathrm{?}$$$, a string consisting of uppercase letters and numbers. </p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id009657375354251625" id="id006267097138046296" class="input-output-copier">Copy</div></div><pre id="id009657375354251625">show us your smile!
-</pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id002950931396140616" id="id002950624846434239" class="input-output-copier">Copy</div></div><pre id="id002950931396140616">     </pre></div></div></div>
+import java.util.*;
+public class Main {
+    public static void main(String [] args){
+        System.out.print("1F60A");
+    }
+}
